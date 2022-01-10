@@ -55,8 +55,8 @@ div.dropdown {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 8px;
-  padding: 8px 10px;
+  margin:12px;
+  padding: 6px 6px;
   color: #fafafa;
   font-size: large;
 }
@@ -64,7 +64,7 @@ div.dropdown {
 div.dropdown {
   background-color: #fafafa;
   border-radius: 5px;
-  color: black;
+  color: rgb(75, 75, 75);
   font-size: 18px;
   cursor: pointer;
 }
