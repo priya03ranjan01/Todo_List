@@ -5,8 +5,6 @@
   font-family: Metropolis;
 }
 
-/* page css start */
-
 header {
   min-height: 300px;
   background-color: black;
@@ -75,4 +73,4 @@ div.dropdown input {
   border: none;
   flex-basis: 90%;
 }
-/* page css end */
+

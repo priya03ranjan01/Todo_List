@@ -1,4 +1,4 @@
-/* switch css start */
+
 input.switch {
   font-size: 5px;
   position: relative;
@@ -107,4 +107,4 @@ input.switch.touch:hover:checked::before {
     text-indent: 0;
   }
 }
-/* switch css end */
+
